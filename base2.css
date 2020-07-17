@@ -1,0 +1,67 @@
+li:hover
+{
+    background-color: indigo;
+}
+ul li, li
+{
+    color: indigo;
+    font-family: Roboto Slab;
+}
+a
+{
+    color: yellow;
+}
+.col-sm-12 img
+{
+    padding: 30px;
+}
+#rad
+{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#bas,u, h1, #id5, #id7
+{
+    font-family: Roboto Slab;
+    color: indigo;
+}
+ol li
+{
+    font-family: Roboto Slab;
+    color: indigo;
+}
+.col-sm-6
+{
+    padding: 50px;
+}
+body
+{
+    font-family: Roboto Slab;
+    background-color: #f3ebeb;
+}
+#id3
+{
+    color: indigo;
+}
+#id4
+{
+    color: indigo;
+}
+#id8
+{
+    color: black;
+}
+#jumb
+{
+    background-color: #fadfdf;
+}
+#id6
+{
+    border-radius: 50%;
+}
+th
+{
+    color: indigo;
+}

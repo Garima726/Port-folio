@@ -1,0 +1,25 @@
+#content
+{
+    text-align: center;
+    margin-top: 13%;
+    color: white;
+    font-family: Roboto Slab;
+}
+body
+{
+    background-image: url(Images/portfolio1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+a
+{
+    color: yellow;
+}
+li:hover
+{
+    background-color: indigo;
+}
+#id9
+{
+    color: black;
+}
